@@ -1,16 +1,13 @@
-### Hi there 👋
+## Jekri Preclaro Orlina
 
-<!--
-**jekku/jekku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently the Senior Technical Development Lead at [Mashup Garage](https://www.mashupgarage.com/)
 
-Here are some ideas to get you started:
+And a Senior Software Engineer at [SLERP](https://www.slerp.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I live in Manila but sometimes you can catch me in London
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jekku&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jekku&layout=compact)
+
+[![Top Langs](https://github-profile-trophy.vercel.app/?username=jekku)
