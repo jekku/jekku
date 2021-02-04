@@ -10,4 +10,4 @@ I live in Manila but sometimes you can catch me in London
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jekku&layout=compact)
 
-[![Top Langs](https://github-profile-trophy.vercel.app/?username=jekku)
+![GH Trophies](https://github-profile-trophy.vercel.app/?username=jekku)
