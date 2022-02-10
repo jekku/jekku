@@ -8,4 +8,3 @@ I live in London
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jekku&layout=compact)
 
-![GH Trophies](https://github-profile-trophy.vercel.app/?username=jekku)
